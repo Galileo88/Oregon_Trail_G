@@ -20,3 +20,11 @@ This game is written purely in HTML, CSS, and JavaScript.
 - Style caravan stats 
 - Create info hierarchy 
 - Add a background image 
+
+## Deploy on Render
+This repository includes a `render.yaml` Blueprint that deploys the game as a static site.
+
+1. Push this repo to GitHub.
+2. In Render, choose **New +** → **Blueprint**.
+3. Connect your repo and deploy.
+4. Open the Render URL on mobile to play.
